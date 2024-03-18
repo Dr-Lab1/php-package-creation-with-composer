@@ -102,6 +102,28 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
 
     C'est la license du package. Laissez un vide simplement si vous n'en avez pas.
 
+Ces opérations vont résulter en un fichier ***composer.json*** qui renfermera les configurations remplies ci-heaut :
+
+ex :
+
+
+       {
+           "name": "labyrinthe/payment",
+           "autoload": {
+               "psr-4": {
+                   "Orange\\Orangemoney\\": "src/"
+               }
+           },
+           "authors": [
+               {
+               
+                   "name": "Dr-Lab1",
+                   "email": "dblab1@gmail.com"
+                   
+               }
+           ],
+           "require": {}
+       }
 
 **Organisation du package**
 
