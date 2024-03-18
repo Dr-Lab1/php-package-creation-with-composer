@@ -3,7 +3,7 @@
 # Plan
 - <a href="#installer-composer" > Installer Composer <a/>
 - <a href="#créer-le-package" > Créer le package <a/>
-- <a href="#tester-le-package-en-production" > Tester le package en production <a/>
+- <a href="#tester-le-package-en-local" > Tester le package en local <a/>
 
 
 
