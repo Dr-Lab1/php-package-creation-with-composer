@@ -58,7 +58,9 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
 
    Mais tout comme la description, l'auteur peut être modifié et on peut en rajouter autant qu'on veut.
 
-   ex: [
+   ex:
+   [
+
      {
    
        "name": "Dr-Lab1",
@@ -76,6 +78,7 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
        "role": "developer"
    
      },
+   
    ]
 
    
