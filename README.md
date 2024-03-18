@@ -2,12 +2,6 @@
 
 # Plan
 - <a href="#installer-composer" > Installer Composer <a/>
-- <a href="#les-routes-globales-pour-tous" >Les routes globales <a/>
-- <a href="#les-routes-web" >Les routes web <a/>
-- <a href="#les-routes-mobile" >Les routes mobile <a/>
-- <a href="#les-middlewares" >Les MIDDLEWARES <a/>
-
-
 
 # Installer composer
 
