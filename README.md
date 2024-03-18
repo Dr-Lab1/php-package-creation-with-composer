@@ -102,7 +102,7 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
 
     C'est la license du package. Laissez un vide simplement si vous n'en avez pas.
 
-Ces opérations vont résulter en un fichier ***composer.json*** qui renfermera les configurations remplies ci-heaut :
+Ces opérations vont résulter en un fichier ***composer.json*** qui renfermera les configurations remplies ci-heaut. Il y a plusieurs autres possibiltés telles que ajouter les *dependencies* avec require: {}
 
 ex :
 
@@ -126,6 +126,10 @@ ex :
        }
 
 **Organisation du package**
+
+Il y aura à la racine, un dossier ***src***, un dossier ***vendor***, et un fichier ***composer.json***.
+
+Toute la logique du package sera codée dans le ***src***.
 
 
 # Tester le package en local
