@@ -2,7 +2,7 @@
 
 # Plan
 - <a href="#installer-composer" > Installer Composer <a/>
-- <a href="#crrer-le-package" > Créer le package <a/>
+- <a href="#creer-le-package" > Créer le package <a/>
 
 # Installer composer
 
