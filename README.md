@@ -32,7 +32,9 @@ Cette commande lancera une série de questions (prompts) qui permettront une con
 Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
 
 1. Package name (*)
-   
+   Ce paramètre est pris sous format <vendor>/<name>
+
+   ex: 
 
 
 
