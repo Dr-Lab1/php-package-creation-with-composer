@@ -49,12 +49,34 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
 
    C'est simplement décrire le package en quelque ligne. Ce paramètre est optionnel et peut être modifié à n'importe quel moment.
 
-3. Author
+   ex: TaskManager est un gestionnaire de tâches...
+
+4. Author
 
    C'est pour entrer le nom de l'auteur.
    Assez souvent, votre nom et votre email sont proposés par *Composer* lui-même. Dans ce cas, faites *enter* pour accepter, sinon entrez les informations que vous voulez bien
 
    Mais tout comme la description, l'auteur peut être modifié et on peut en rajouter autant qu'on veut.
+
+   ex: [
+     {
+   
+       "name": "Dr-Lab1",
+       "email": "drlab1@gmail.com",
+       "homepage": "https://github.com/Dr-Lab1",
+       "role": "Head developer"
+   
+     },
+   
+     {
+   
+       "name": "Jonathan",
+       "email": "jonathan@gmail.com",
+       "homepage": "https://github.com/Dr-Lab1",
+       "role": "developer"
+   
+     },
+   ]
 
    
    
