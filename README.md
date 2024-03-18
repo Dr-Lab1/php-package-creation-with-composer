@@ -10,6 +10,9 @@
 
 
 # Installer composer
+
+<a href="https://getcomposer.org/download/">Le lien de téléchargement <a/> 
+
 # Initialiser la creation du package
 # Tester le package en local
 # Tester le package en production
