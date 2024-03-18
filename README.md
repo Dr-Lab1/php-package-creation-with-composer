@@ -19,7 +19,12 @@ Cette idée n'est pas nouvelle et Composer est fortement inspiré par <a href="h
  
 <a href="https://getcomposer.org/download/">Le lien de téléchargement de Composer<a/> 
 
-# Initialiser la creation du package
+# Créer le package
+
+**Initialisation du package**
+
+   composer init
+
 # Tester le package en local
 # Tester le package en production
 
