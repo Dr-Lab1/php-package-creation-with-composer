@@ -139,8 +139,7 @@ Toute la logique du package sera codée dans le ***src***.
 2. Allez sur composer.json de la nouvelle application et entrez ce code avant les propriétés ***require*** :
 
    
-      "repositories":
-
+       "repositories":
        [
             {
        
