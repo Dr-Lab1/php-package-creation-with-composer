@@ -40,12 +40,12 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
 
    ex: orange/orangemoney
 
-   <div style="background-color: red; color=red">
+   <p style="background-color: red; color: black">
    Attention :
 
    - No space
    - Lowercase format
-   <div/>
+   <p/>
 
 # Tester le package en local
 # Tester le package en production
