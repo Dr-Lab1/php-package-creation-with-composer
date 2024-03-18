@@ -1,12 +1,18 @@
 # Comment créer un package laravel avec composer et le deployer
-#
 
-Etapes 
+# Plan
+- <a href="#installer-composer" > Installer Composer <a/>
+- <a href="#les-routes-globales-pour-tous" >Les routes globales <a/>
+- <a href="#les-routes-web" >Les routes web <a/>
+- <a href="#les-routes-mobile" >Les routes mobile <a/>
+- <a href="#les-middlewares" >Les MIDDLEWARES <a/>
 
-1. Installer composer
-2. Initialiser la creation du package
-3. Tester le package en local
-4. Tester le package en production
+
+
+# Installer composer
+# Initialiser la creation du package
+# Tester le package en local
+# Tester le package en production
 
    
 Install composer
