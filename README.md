@@ -137,14 +137,18 @@ Toute la logique du package sera codée dans le ***src***.
 1. Installer une nouvelle app laravel pour tester votre package. 
 
 2. Allez sur composer.json de la nouvelle application et entrez ce code avant les propriétés ***require*** :
-      "repositories": [
-           {
-      
-               "type": "path",
-               "url": "C:/laragon/www/labyrinthe-payment"
-      
-           }
-       ],
+
+   
+      "repositories":
+
+       [
+            {
+       
+                "type": "path",
+                "url": "C:/laragon/www/labyrinthe-payment"
+       
+            }
+        ],
 
 # Tester le package en production
 
