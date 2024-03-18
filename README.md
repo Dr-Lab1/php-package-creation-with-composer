@@ -96,8 +96,15 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
    - project
    - metapackage
    - composer-plugin
-   
-   
+
+7.  License
+
+    C'est la license du package. Laissez un vide simplement si vous n'en avez pas.
+
+
+**Organisation du package**
+
+
 # Tester le package en local
 # Tester le package en production
 
