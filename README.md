@@ -2,5 +2,9 @@
 #
 
 Install composer
+
 composer init
-  fill informations
+
+[
+  remplir les informations de la création
+]
