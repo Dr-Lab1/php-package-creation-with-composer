@@ -45,6 +45,13 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
    - No space
    - Lowercase format
 
+2. Description
+
+   C'est simplement décrire le package en quelque ligne. Ce paramètre est optionnel et peut être modifié à n'importe quel moment.
+
+3. Author
+
+   C'est pour entrer
 # Tester le package en local
 # Tester le package en production
 
