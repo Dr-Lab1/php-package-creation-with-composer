@@ -59,27 +59,28 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
    Mais tout comme la description, l'auteur peut être modifié et on peut en rajouter autant qu'on veut.
 
    ex:
-   [
-
-     {
    
-       "name": "Dr-Lab1",
-       "email": "drlab1@gmail.com",
-       "homepage": "https://github.com/Dr-Lab1",
-       "role": "Head developer"
-   
-     },
-   
-     {
-   
-       "name": "Jonathan",
-       "email": "jonathan@gmail.com",
-       "homepage": "https://github.com/Dr-Lab1",
-       "role": "developer"
-   
-     },
-   
-   ]
+     [
+  
+       {
+     
+         "name": "Dr-Lab1",
+         "email": "drlab1@gmail.com",
+         "homepage": "https://github.com/Dr-Lab1",
+         "role": "Head developer"
+     
+       },
+     
+       {
+     
+         "name": "Jonathan",
+         "email": "jonathan@gmail.com",
+         "homepage": "https://github.com/Dr-Lab1",
+         "role": "developer"
+     
+       },
+     
+     ]
 
    
    
