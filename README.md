@@ -39,12 +39,13 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
    Tâchez donc de bien entrer ces paramètres. Généralement, \<vendor> correspond au nom de l'entité qui a développé le package et \<name> le service du package
 
    ex: orange/orangemoney
-   
+
+   <div style="background-color: red">
    Attention :
 
    - No space
    - Lowercase format
-
+   <div/>
 
 # Tester le package en local
 # Tester le package en production
