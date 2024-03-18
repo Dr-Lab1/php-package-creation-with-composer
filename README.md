@@ -159,14 +159,3 @@ Toute la logique du package sera codée dans le ***src***.
 
 # Tester le package en production
 
-   
-Install composer
-
-composer init
-
-[
-  remplir les informations de la création
-]
-
-
-Installation du package en local
