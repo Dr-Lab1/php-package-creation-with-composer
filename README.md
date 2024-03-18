@@ -40,7 +40,7 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
 
    ex: orange/orangemoney
 
-   <div style="background-color: red">
+   <div style="background-color: red; color=red">
    Attention :
 
    - No space
