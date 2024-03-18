@@ -147,7 +147,7 @@ Toute la logique du package sera codée dans le ***src***.
             {
        
                 "type": "path",
-                "url": "C:/laragon/www/labyrinthe-payment"
+                "url": "C:/laragon/www/orange-money"
        
             }
         ],
