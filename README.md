@@ -82,6 +82,20 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
        
        ]
 
+5. Minimum Stability
+
+   Ce paramètre est l'indicateur de stabilité du package. Il est conseillé de le laisser vide car le package est dans sa création et on ne sait pas quantifier la sa stabilité
+
+6. Package Type
+
+   Le type de package à développer.
+   
+   ex:
+
+   - library
+   - project
+   - metapackage
+   - composer-plugin
    
    
 # Tester le package en local
