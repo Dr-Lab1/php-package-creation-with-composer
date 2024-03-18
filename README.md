@@ -23,7 +23,18 @@ Cette idée n'est pas nouvelle et Composer est fortement inspiré par <a href="h
 
 **Initialisation du package**
 
+Avant de commencer cette étape, il faut d'abord s'assurer que votre composer est installé et est à jour.
+
+
     composer init
+
+Cette commande lancera une série de questions (prompts) qui permettront une configuration rapide et facile de notre package.
+Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
+
+1. Package name (*)
+   
+
+
 
 # Tester le package en local
 # Tester le package en production
