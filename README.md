@@ -36,12 +36,14 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
    Ce paramètre est pris sous format \<vendor>/\<name>
 
    C'est un paramètre important parce qu'il servira de namespace aux futurs utilisateurs du package.
-
    Tâchez donc de bien entrer ces paramètres. Généralement, \<vendor> correspond au nom de l'entité qui a développé le package et \<name> le service du package
 
    ex: orange/orangemoney
    
+   Attention :
 
+   - No space
+   - Lowercase format
 
 
 # Tester le package en local
