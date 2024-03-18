@@ -15,7 +15,7 @@ Composer n'est pas un gestionnaire de paquets dans le même sens que Yum ou Apt.
 
 Cette idée n'est pas nouvelle et Composer est fortement inspiré par npm de node et bundler de ruby.
 
-https://getcomposer.org/doc/00-intro.md
+<a href="https://getcomposer.org/doc/00-intro.md">La documentation officielle de Composer<a/>
 <a href="https://getcomposer.org/download/">Le lien de téléchargement <a/> 
 
 # Initialiser la creation du package
