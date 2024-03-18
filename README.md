@@ -1,4 +1,4 @@
-# Comment créer son package avec composer et le deployer
+# Comment créer un package laravel avec composer et le deployer
 #
 
 Etapes 
