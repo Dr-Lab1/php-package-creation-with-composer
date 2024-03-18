@@ -149,6 +149,11 @@ Toute la logique du package sera codée dans le ***src***.
             }
         ],
 
+3. Faites cette commande composer
+
+
+        composer require orange/orangemoney
+
 # Tester le package en production
 
    
