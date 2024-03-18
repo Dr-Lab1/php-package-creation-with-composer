@@ -23,7 +23,7 @@ Cette idée n'est pas nouvelle et Composer est fortement inspiré par <a href="h
 
 **Initialisation du package**
 
-   composer init
+    composer init
 
 # Tester le package en local
 # Tester le package en production
