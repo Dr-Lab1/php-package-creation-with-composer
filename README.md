@@ -159,4 +159,4 @@ Toute la logique du package sera codée dans le ***src***.
 
 # Tester le package en production
 
-1. Créer votre compte <a href="https://packagist.org/" target="_blank">packagist<a/>
+1. Créer votre compte <a href="https://packagist.org/" target="_blank">packagist<a/> 
