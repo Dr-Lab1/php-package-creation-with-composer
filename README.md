@@ -159,4 +159,6 @@ Toute la logique du package sera codée dans le ***src***.
 
 # Tester le package en production
 
-1. Créer votre compte <a href="https://packagist.org/" target="_blank">packagist<a/> 
+1. Créer votre compte <a href="https://packagist.org/" target="_blank">packagist<a/>
+
+   Packagist est le dépôt principal de Composer. Il regroupe les paquets PHP publics installables avec Composer.
