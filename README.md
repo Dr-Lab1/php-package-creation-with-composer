@@ -1,4 +1,4 @@
-# Comment créer un package laravel avec composer et le deployer
+# Comment créer un package PHP avec composer et le deployer
 
 # Plan
 - <a href="#installer-composer" > Installer Composer <a/>
