@@ -164,4 +164,6 @@ Toute la logique du package sera codée dans le ***src***.
    Packagist est le dépôt principal de Composer. Il regroupe les paquets PHP publics installables avec Composer.
    Toutes les commandes **Composer** que nous faisons pour install ou update nos dépendances sont en fait dirigées vers packagist car c'est lui qui gère la plupart des dépendances PHP.
 
-2. Puis allez sur <a href="https://packagist.org/packages/submit">submit<a/>
+   De préférence, créer votre compte en utilisant votre compte GitHub possedant le code source de votre package.
+
+3. Puis allez sur <a href="https://packagist.org/packages/submit">submit<a/>
