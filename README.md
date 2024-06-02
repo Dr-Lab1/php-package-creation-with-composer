@@ -170,4 +170,4 @@ Toute la logique du package sera codée dans le ***src***.
 
    En allant sur submit, entrez le lien de votre repository GiHub abritant le code source de votre package.
 
-   Assurez-vous qu'il soit **public** pour permettre à Packagist de l'enregistrer et d'y préléver certains détails importants, faire des mises à jour à chaque nouveau commit,...
+   Assurez-vous qu'il soit **public** pour permettre à Packagist de l'enregistrer et d'y préléver certains détails importants, faire des mises à jour à chaque nouveau commit,... Remplissez les informations du package puis cliquer sur **submit**, voilà votre package est rendu public et utilisable partout dans le monde.
