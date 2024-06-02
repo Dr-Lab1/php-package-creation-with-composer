@@ -58,7 +58,7 @@ Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
 4. Author
 
    C'est pour entrer le nom de l'auteur.
-   Assez souvent, votre nom et votre email sont proposés par *Composer* lui-même. Dans ce cas, faites *enter* pour accepter, sinon entrez les informations que vous voulez bien
+   Assez souvent, votre nom et votre email sont proposés par *Composer* lui-même. Dans ce cas, faites *enter* pour accepter, sinon entrez les informations que vous voulez bien.
 
    Mais tout comme la description, l'auteur peut être modifié et on peut en rajouter autant qu'on veut.
 
