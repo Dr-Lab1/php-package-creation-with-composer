@@ -239,8 +239,8 @@ Some questions are mandatory (*), while others are optional :
    
    This parameter is taken in the format \<vendor>/\<name>.
 
-   C'est un paramètre important parce qu'il servira de namespace aux futurs utilisateurs du package.
-   Tâchez donc de bien entrer ces paramètres. Généralement, \<vendor> correspond au nom de l'entité qui a développé le package et \<name> le service du package
+   This is an important parameter because it will serve as the namespace for future users of the package. Make sure you enter these parameters correctly.
+   Generally, <vendor> corresponds to the name of the entity that developed the package and <name> to the package service.
 
    ex: orange/orangemoney
 
@@ -249,7 +249,7 @@ Some questions are mandatory (*), while others are optional :
    - No space
    - Lowercase format
 
-2. Description
+3. Description
 
    C'est simplement décrire le package en quelque ligne. Ce paramètre est optionnel et peut être modifié à n'importe quel moment.
 
