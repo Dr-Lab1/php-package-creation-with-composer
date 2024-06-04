@@ -224,7 +224,7 @@ Cette idée n'est pas nouvelle et Composer est fortement inspiré par <a href="h
  
 <a href="https://getcomposer.org/download/">Le lien de téléchargement de Composer<a/> 
 
-# Créer le package
+# Create package
 
 **Initialisation du package**
 
