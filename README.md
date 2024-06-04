@@ -244,7 +244,7 @@ Some questions are mandatory (*), while others are optional :
 
    ex: orange/orangemoney
 
-   Attention :
+   Warning :
 
    - No space
    - Lowercase format
