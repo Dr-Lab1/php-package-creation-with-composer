@@ -257,8 +257,8 @@ Some questions are mandatory (*), while others are optional :
 
 5. Author
 
-   C'est pour entrer le nom de l'auteur.
-   Assez souvent, votre nom et votre email sont proposés par *Composer* lui-même. Dans ce cas, faites *enter* pour accepter, sinon entrez les informations que vous voulez bien.
+   This is where you enter the author's name.
+   Quite often, your name and e-mail address are suggested by *Composer* itself. In this case, press *enter* to accept, otherwise enter whatever information you like.
 
    Mais tout comme la description, l'auteur peut être modifié et on peut en rajouter autant qu'on veut.
 
