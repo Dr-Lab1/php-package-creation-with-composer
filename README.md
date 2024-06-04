@@ -288,7 +288,7 @@ Some questions are mandatory (*), while others are optional :
 
 7. Minimum Stability
 
-   Ce paramètre est l'indicateur de stabilité du package. Il est conseillé de le laisser vide car le package est dans sa création et on ne sait pas quantifier la sa stabilité
+   This parameter is the package stability indicator. It is advisable to leave it empty, as the package is still being created and its stability cannot be quantified.
 
 8. Package Type
 
