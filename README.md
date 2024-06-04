@@ -352,8 +352,7 @@ All package logic is coded in the ***src***.
             }
         ],
 
-3. Faites cette commande composer
-
+3. Make this Composer command
 
         composer require orange/orangemoney
 
