@@ -370,9 +370,9 @@ All package logic is coded in the ***src***.
 
    Make sure it's **public** to enable Packagist to register it and take important details from it, update it with each new commit, etc. Fill in the package details, click on **submit** and your package will be made public and available for use worldwide. Maintenant essayons notre package dans notre application !
 
-1. Installer une nouvelle app laravel pour tester votre package. 
+* Install a new laravel app to test your package. 
 
-3. Faites cette commande composer
+* Faites cette commande composer
 
 
         composer require orange/orangemoney
