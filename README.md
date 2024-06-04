@@ -337,7 +337,7 @@ All package logic is coded in the ***src***.
 
 # Local package testing
 
-1. Installer une nouvelle app laravel pour tester votre package. 
+1. Install a new laravel app to test your package. 
 
 2. Allez sur composer.json de la nouvelle application et entrez ce code avant les propriétés ***require*** :
 
