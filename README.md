@@ -339,7 +339,7 @@ All package logic is coded in the ***src***.
 
 1. Install a new laravel app to test your package. 
 
-2. Allez sur composer.json de la nouvelle application et entrez ce code avant les propriétés ***require*** :
+2. Go to composer.json of the new application and enter this code before the ***require*** properties:
 
    
        "repositories":
