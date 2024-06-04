@@ -260,8 +260,8 @@ Some questions are mandatory (*), while others are optional :
    This is where you enter the author's name.
    Quite often, your name and e-mail address are suggested by *Composer* itself. In this case, press *enter* to accept, otherwise enter whatever information you like.
 
-   Mais tout comme la description, l'auteur peut être modifié et on peut en rajouter autant qu'on veut.
-
+   But just like the description, the author can be changed and as many more added as you like.
+   
    ex:
    
        [
@@ -286,11 +286,11 @@ Some questions are mandatory (*), while others are optional :
        
        ]
 
-6. Minimum Stability
+7. Minimum Stability
 
    Ce paramètre est l'indicateur de stabilité du package. Il est conseillé de le laisser vide car le package est dans sa création et on ne sait pas quantifier la sa stabilité
 
-7. Package Type
+8. Package Type
 
    Le type de package à développer.
    
@@ -301,7 +301,7 @@ Some questions are mandatory (*), while others are optional :
    - metapackage
    - composer-plugin
 
-8.  License
+9.  License
 
     C'est la license du package. Laissez un vide simplement si vous n'en avez pas.
 
