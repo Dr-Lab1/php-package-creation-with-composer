@@ -368,9 +368,7 @@ All package logic is coded in the ***src***.
 
    On submit, enter the link to your GiHub repository containing the source code for your package.
 
-   Assurez-vous qu'il soit **public** pour permettre à Packagist de l'enregistrer et d'y préléver certains détails importants, faire des mises à jour à chaque nouveau commit,... Remplissez les informations du package puis cliquer sur **submit**, voilà votre package est rendu public et utilisable partout dans le monde.
-
-Maintenant essayons notre package dans notre application !
+   Make sure it's **public** to enable Packagist to register it and take important details from it, update it with each new commit, etc. Fill in the package details, click on **submit** and your package will be made public and available for use worldwide. Maintenant essayons notre package dans notre application !
 
 1. Installer une nouvelle app laravel pour tester votre package. 
 
