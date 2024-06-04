@@ -214,7 +214,7 @@ Bien cordialement,
 
 Composer is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 
-**Gestion des dépendances**
+**Dependency management**
 
 Composer n'est pas un gestionnaire de packages dans le même sens que Yum ou Apt. Oui, il s'occupe de "packages" ou de bibliothèques, mais il les gère par projet, en les installant dans un répertoire (par exemple vendor) à l'intérieur de votre projet. Par défaut, il n'installe rien globalement. Il s'agit donc d'un gestionnaire de dépendances. Il supporte cependant un projet "global" par commodité via la commande global.
 
