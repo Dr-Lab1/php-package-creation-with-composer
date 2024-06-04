@@ -303,7 +303,7 @@ Some questions are mandatory (*), while others are optional :
 
 9.  License
 
-    C'est la license du package. Laissez un vide simplement si vous n'en avez pas.
+    This is the package license. Just leave it blank if you don't have one.
 
 Ces opérations vont résulter en un fichier ***composer.json*** qui renfermera les configurations remplies ci-heaut. Il y a plusieurs autres possibiltés telles que ajouter les *dependencies* avec require: {}
 
