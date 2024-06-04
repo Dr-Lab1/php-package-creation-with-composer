@@ -237,7 +237,7 @@ Some questions are mandatory (*), while others are optional :
 
 1. Package name (*)
    
-   Ce paramètre est pris sous format \<vendor>/\<name>
+   This parameter is taken in the format \<vendor>/\<name>.
 
    C'est un paramètre important parce qu'il servira de namespace aux futurs utilisateurs du package.
    Tâchez donc de bien entrer ces paramètres. Généralement, \<vendor> correspond au nom de l'entité qui a développé le package et \<name> le service du package
