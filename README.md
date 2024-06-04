@@ -330,7 +330,7 @@ ex :
 
 **Organisation du package**
 
-Il y aura à la racine, un dossier ***src***, un dossier ***vendor***, et un fichier ***composer.json***.
+At the root, there will be a ***src*** folder, a ***vendor*** folder, and a ***composer.json*** file.
 
 Toute la logique du package sera codée dans le ***src***.
 
