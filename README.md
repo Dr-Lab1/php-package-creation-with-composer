@@ -222,7 +222,7 @@ This idea is not new and Composer is strongly inspired by node's <a href="https:
 
 <a href="https://getcomposer.org/doc/00-intro.md">Official Composer documentation<a/>
  
-<a href="https://getcomposer.org/download/">Le lien de téléchargement de Composer<a/> 
+<a href="https://getcomposer.org/download/">Composer download link<a/> 
 
 # Create package
 
