@@ -366,7 +366,7 @@ All package logic is coded in the ***src***.
 
 3. Go to <a href="https://packagist.org/packages/submit">submit<a/>
 
-   En allant sur submit, entrez le lien de votre repository GiHub abritant le code source de votre package.
+   On submit, enter the link to your GiHub repository containing the source code for your package.
 
    Assurez-vous qu'il soit **public** pour permettre à Packagist de l'enregistrer et d'y préléver certains détails importants, faire des mises à jour à chaque nouveau commit,... Remplissez les informations du package puis cliquer sur **submit**, voilà votre package est rendu public et utilisable partout dans le monde.
 
