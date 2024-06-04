@@ -380,7 +380,9 @@ All package logic is coded in the ***src***.
 Now you can do whatever you want.
 
 
-</hr>
+
+
+
 Thank you so much for following this tutorial!
 
 Best regards,
