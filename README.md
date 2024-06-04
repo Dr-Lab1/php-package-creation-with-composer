@@ -228,8 +228,7 @@ This idea is not new and Composer is strongly inspired by node's <a href="https:
 
 **Package initialization**
 
-Avant de commencer cette étape, il faut d'abord s'assurer que votre composer est installé et est à jour.
-
+Before starting this step, you need to make sure that your composer is installed and up to date.
 
     composer init
 
