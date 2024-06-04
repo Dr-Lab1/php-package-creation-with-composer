@@ -251,11 +251,11 @@ Some questions are mandatory (*), while others are optional :
 
 3. Description
 
-   C'est simplement décrire le package en quelque ligne. Ce paramètre est optionnel et peut être modifié à n'importe quel moment.
-
+   This simply describes the package in a few lines. This parameter is optional and can be changed at any time.
+   
    ex: TaskManager est un gestionnaire de tâches...
 
-4. Author
+5. Author
 
    C'est pour entrer le nom de l'auteur.
    Assez souvent, votre nom et votre email sont proposés par *Composer* lui-même. Dans ce cas, faites *enter* pour accepter, sinon entrez les informations que vous voulez bien.
@@ -286,11 +286,11 @@ Some questions are mandatory (*), while others are optional :
        
        ]
 
-5. Minimum Stability
+6. Minimum Stability
 
    Ce paramètre est l'indicateur de stabilité du package. Il est conseillé de le laisser vide car le package est dans sa création et on ne sait pas quantifier la sa stabilité
 
-6. Package Type
+7. Package Type
 
    Le type de package à développer.
    
@@ -301,7 +301,7 @@ Some questions are mandatory (*), while others are optional :
    - metapackage
    - composer-plugin
 
-7.  License
+8.  License
 
     C'est la license du package. Laissez un vide simplement si vous n'en avez pas.
 
