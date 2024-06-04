@@ -242,7 +242,7 @@ Some questions are mandatory (*), while others are optional :
    This is an important parameter because it will serve as the namespace for future users of the package. Make sure you enter these parameters correctly.
    Generally, <vendor> corresponds to the name of the entity that developed the package and <name> to the package service.
 
-   ex: orange/orangemoney
+         ex: orange/orangemoney
 
    Warning :
 
