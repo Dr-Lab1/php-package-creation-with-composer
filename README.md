@@ -292,7 +292,7 @@ Some questions are mandatory (*), while others are optional :
 
 8. Package Type
 
-   Le type de package à développer.
+   Type of package to develop.
    
    ex:
 
