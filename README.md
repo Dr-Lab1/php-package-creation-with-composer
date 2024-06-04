@@ -1,6 +1,6 @@
 # Locale
 - <a href="#Comment-créer-un-package-PHP-avec-composer-et-le-deployer" > Français <a/>
-- <a href="#english-plan" > English <a/>
+- <a href="#How-to-create-a-PHP-package-with-composer-and-deploy-it" > English <a/>
 
 # Comment créer un package PHP avec composer et le deployer
 
