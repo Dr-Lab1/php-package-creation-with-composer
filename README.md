@@ -372,7 +372,7 @@ All package logic is coded in the ***src***.
 
 * Install a new laravel app to test your package. 
 
-* Faites cette commande composer
+* Make this Composer command
 
 
         composer require orange/orangemoney
