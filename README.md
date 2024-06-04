@@ -364,7 +364,7 @@ All package logic is coded in the ***src***.
    All the **Composer** commands we issue to install or update our dependencies are in fact directed to packagist, as it manages most PHP dependencies.
    De préférence, créer votre compte en utilisant votre compte GitHub possedant le code source de votre package.
 
-3. Puis allez sur <a href="https://packagist.org/packages/submit">submit<a/>
+3. Go to <a href="https://packagist.org/packages/submit">submit<a/>
 
    En allant sur submit, entrez le lien de votre repository GiHub abritant le code source de votre package.
 
