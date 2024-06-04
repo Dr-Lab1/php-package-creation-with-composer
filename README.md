@@ -358,7 +358,7 @@ Toute la logique du package sera codée dans le ***src***.
 
         composer require orange/orangemoney
 
-# Tester le package en production
+# Production package testing
 
 1. Créer votre compte <a href="https://packagist.org/" target="_blank">packagist<a/>
 
