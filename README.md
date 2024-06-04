@@ -253,7 +253,7 @@ Some questions are mandatory (*), while others are optional :
 
    This simply describes the package in a few lines. This parameter is optional and can be changed at any time.
    
-   ex: TaskManager est un gestionnaire de tâches...
+   ex: TaskManager is a task manager...
 
 5. Author
 
