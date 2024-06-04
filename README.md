@@ -226,7 +226,7 @@ This idea is not new and Composer is strongly inspired by node's <a href="https:
 
 # Create package
 
-**Initialisation du package**
+**Package initialization**
 
 Avant de commencer cette étape, il faut d'abord s'assurer que votre composer est installé et est à jour.
 
