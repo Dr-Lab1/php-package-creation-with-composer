@@ -1,5 +1,7 @@
 # Comment créer un package PHP avec composer et le deployer
 
+# Locale
+
 # Plan
 - <a href="#installer-composer" > Installer Composer <a/>
 - <a href="#créer-le-package" > Créer le package <a/>
