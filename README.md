@@ -220,9 +220,9 @@ Composer is not a package manager in the same sense as Yum or Apt are. Yes, it d
 
 This idea is not new and Composer is strongly inspired by node's <a href="https://www.npmjs.com/" target="_blank">npm<a/> and ruby's <a href="https://bundler.io/" target="_blank">bundler<a/>.
 
-<a href="https://getcomposer.org/doc/00-intro.md">Official Composer documentation<a/>
+### - <a href="https://getcomposer.org/doc/00-intro.md">Official Composer documentation<a/>
  
-<a href="https://getcomposer.org/download/">Composer download link<a/> 
+### - <a href="https://getcomposer.org/download/">Composer download link<a/> 
 
 # Create package
 
