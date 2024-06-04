@@ -358,7 +358,7 @@ All package logic is coded in the ***src***.
 
 # Production package testing
 
-1. Créer votre compte <a href="https://packagist.org/" target="_blank">packagist<a/>
+1. Create your <a href="https://packagist.org/" target="_blank">packagist<a/> account
 
    Packagist est le dépôt principal de Composer. Il regroupe les paquets PHP publics installables avec Composer.
    Toutes les commandes **Composer** que nous faisons pour install ou update nos dépendances sont en fait dirigées vers packagist car c'est lui qui gère la plupart des dépendances PHP.
