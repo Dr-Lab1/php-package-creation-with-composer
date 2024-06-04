@@ -1,8 +1,8 @@
-# Comment créer un package PHP avec composer et le deployer
-
 # Locale
-- <a href="#plan" > Français <a/>
+- <a href="#Comment-créer-un-package-PHP-avec-composer-et-le-deployer" > Français <a/>
 - <a href="#english-plan" > English <a/>
+
+# Comment créer un package PHP avec composer et le deployer
 
 # Plan
 - <a href="#installer-composer" > Installer Composer <a/>
