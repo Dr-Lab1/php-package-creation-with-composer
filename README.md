@@ -205,7 +205,7 @@ Bien cordialement,
 - <a href="#install-composer" > Install Composer <a/>
 - <a href="#create-package" > Create package <a/>
 - <a href="#local-package-testing" > Local package testing <a/>
-- <a href="#tester-le-package-en-production" > Tester le package en production <a/>
+- <a href="#tester-le-package-en-production" > Production package testing <a/>
 
    
 # Install composer
