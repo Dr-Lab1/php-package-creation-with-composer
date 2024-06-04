@@ -332,7 +332,7 @@ ex :
 
 At the root, there will be a ***src*** folder, a ***vendor*** folder, and a ***composer.json*** file.
 
-Toute la logique du package sera codée dans le ***src***.
+All package logic is coded in the ***src***.
 
 
 # Local package testing
