@@ -201,7 +201,7 @@ Bien cordialement,
 
 # How to create a PHP package with composer and deploy it
 
-# English Plan
+# Plan
 - <a href="#install-composer" > Install Composer <a/>
 - <a href="#create-package" > Create package <a/>
 - <a href="#local-package-testing" > Local package testing <a/>
