@@ -232,8 +232,8 @@ Before starting this step, you need to make sure that your composer is installed
 
     composer init
 
-Cette commande lancera une série de questions (prompts) qui permettront une configuration rapide et facile de notre package.
-Certaines questions seront obligatoires (*) et d'autres seront optionnelles :
+This command will launch a series of questions (prompts) that will allow quick and easy configuration of our package.
+Some questions are mandatory (*), while others are optional :
 
 1. Package name (*)
    
