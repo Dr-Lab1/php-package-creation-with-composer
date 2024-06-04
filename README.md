@@ -305,7 +305,7 @@ Some questions are mandatory (*), while others are optional :
 
     This is the package license. Just leave it blank if you don't have one.
 
-Ces opérations vont résulter en un fichier ***composer.json*** qui renfermera les configurations remplies ci-heaut. Il y a plusieurs autres possibiltés telles que ajouter les *dependencies* avec require: {}
+These operations will result in a ***composer.json*** file, which will contain the configurations filled in above. There are several other possibilities, such as adding *dependencies* with require: {}
 
 ex :
 
