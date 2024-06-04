@@ -336,7 +336,7 @@ Il y aura à la racine, un dossier ***src***, un dossier ***vendor***, et un fic
 Toute la logique du package sera codée dans le ***src***.
 
 
-# Tester le package en local
+# Local package testing
 
 1. Installer une nouvelle app laravel pour tester votre package. 
 
