@@ -2,7 +2,7 @@
 
 # Locale
 - <a href="#plan" > Français <a/>
-- <a href="#plan-en" > English <a/>
+- <a href="#english-plan" > English <a/>
 
 # Plan
 - <a href="#installer-composer" > Installer Composer <a/>
