@@ -377,13 +377,13 @@ All package logic is coded in the ***src***.
 
         composer require orange/orangemoney
 
-Vous pouvez maintenant faire tout ce que vous voulez.
+Now you can do whatever you want.
 
 
-Merci Infiniment d'avoir suivi ce tutoriel !
+Thank you so much for following this tutorial!
 
 
 
-Bien cordialement,
+Best regards,
 
 ### <a href="https://github.com/Dr-Lab1/">Dr-Lab1<a/>
