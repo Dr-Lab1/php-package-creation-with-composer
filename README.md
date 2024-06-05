@@ -2,7 +2,7 @@
 - <a href="#Comment-créer-un-package-PHP-avec-composer-et-le-deployer" > Français <a/>
 - <a href="#How-to-create-a-PHP-package-with-composer-and-deploy-it" > English <a/>
 
-# Comment créer un package PHP avec composer et le deployer
+# Comment créer un package PHP avec composer et le deployer 
 
 # Plan
 - <a href="#installer-composer" > Installer Composer <a/>
