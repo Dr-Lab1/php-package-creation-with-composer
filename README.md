@@ -12,7 +12,7 @@
 
   
 # Installer composer 
-  
+ 
 **Introduction**
      
 Composer est un outil de gestion des dépendances en PHP. Il vous permet de déclarer les bibliothèques dont votre projet dépend et il les gérera (installation/mise à jour) pour vous.
