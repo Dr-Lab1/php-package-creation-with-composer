@@ -11,7 +11,7 @@
 - <a href="#tester-le-package-en-production" > Tester le package en production <a/> 
 
      
-# Installer composer
+# Installer composer 
   
 **Introduction**
     
